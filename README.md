@@ -1,1 +1,1 @@
-# CollegeLIfe
+# CollegeLife
