@@ -42,6 +42,7 @@ A social media technology that allows students to network with colleagues in reg
  * Stream
  * Creation
  * Profile
+ 
 **Flow Navigation** (Screen to Screen)
  * Login/Register
    * Stream
